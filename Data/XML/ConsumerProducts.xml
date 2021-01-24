@@ -1,0 +1,732 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Page>
+	<head>
+		Intensity Glow Products - Catalog Products
+	</head>
+	<slogan>Valid from February 2008</slogan>
+	<!--<product new="true" natural="false">
+		<id></id>
+    <img></img>
+		<name></name>
+		<description></description>
+		<price></price>
+	</product>-->
+	<Products>
+		<category name="SkinCareSets" code="0">
+			<product new="false">
+				<id></id>
+        <img></img>
+				<name>Intensity Glow Set</name>
+				<description>
+					Will make your complexion fairer, rosier, and will make your skin glow.
+					Soap – to gently exfoliate and whiten your skin, and it also has an anti-wrinkle effect, Toner – to whiten your skin, reduce pores, and to smoothen wrinkle lines, Day Cream – makes your complexion more even and radiant, Sun-block – protects your skin from the sun’s harmful rays, Night Cream – smoothens and refreshes your skin.
+				</description>
+				<price>1,116.30</price>
+			</product>
+			<product new="false">
+				<id></id>
+        <img></img>
+				<name>IGP Beauty Glow Set</name>
+				<description>Soap – to gently exfoliate and whiten your skin, and it also has an anti-wrinkle effect, Lotion – A very good cleanser, Toner – to minimize pore size for moderate peel and whitening, Sunblock – SPF 30 for protection against the sun, Night-Cream – Lightens the skin tone of the face with a mild peeling effect, Placenta-Cream – Moisturizes and whitens the skin.</description>
+				<price>1,094.22</price>
+			</product>
+			<product new="false">
+				<id></id>
+        <img></img>
+				<name>IGP Anti Wrinkle Set</name>
+				Reduces wrinkle and rejuvenates your skin.
+				<description>Soap – prevents wrinkle formation, Anti-Wrinkle Toner – Minimize pore size and has a mild peeling and whitening effect, SunBlock with Placenta cream – Moisturizes and protects the skin from sun damage, Anti-Wrinkle Cream – Diminishes wrinkle lines.</description>
+				<price>799.98</price>
+			</product>
+			<product new="false">
+				<id></id>
+        <img></img>
+				<name>IGP Acne Control Set</name>
+				<description>
+					Reduces unwanted pimples and acne.
+					Soap – dries out pimples and is anti-bacterial, Toner – controls the skins oiliness, ACS – fast acting pimple remover, Sun-block Gel – protects your face from harmful rays of the sun, Night Cream – whitening cream with anti-oxidants.
+				</description>
+				<price>998.88</price>
+			</product>
+			<product new="false">
+				<id></id>
+        <img></img>
+				<name>IGP Body Bleaching Set</name>
+				<description>
+					Gives you a silky, fairer, and younger looking skin.
+					Whitening Soap – Whitens and cleans your skin, Body Scrubber – Exfoliating green papaya scrubber, Whitening Lotion – Whitens and moisturizes your skin, SunBlock Lotion – SPF 30 protection from the sun.
+				</description>
+				<price>1,210.77</price>
+			</product>
+		</category>
+		<category name="EyeCare" code="1">
+			<head>- Creams -</head>
+			<product new="false">
+				<id></id>
+        <img></img>
+				<name>IGP Anti Wrinkle Eye Cream 10 g</name>
+				<description>Removes and reduces wrinkles and lines around your eyes. For a younger looking and beautiful face.</description>
+				<price>340.38</price>
+			</product>
+			<product new="false">
+				<id></id>
+        <img></img>
+				<name>IGP Eye Bag Regular Cream 10 g</name>
+				<description>Reduces the puffiness and eye-bags under your eyes.</description>
+				<price>240.64</price>
+			</product>
+			<head>- Gels -</head>
+			<product new="false">
+				<id></id>
+        <img></img>
+				<name>IGP Anti Wrinkle Eye Gel 10 g</name>
+				<description>Removes and reduces wrinkles and lines around your eyes. For a younger looking and beautiful face. Good for oily skin.</description>
+				<price>340.38</price>
+			</product>
+			<product new="false">
+				<id></id>
+        <img></img>
+				<name>IGP Eye Whitening Gel 10 g</name>
+				<description>Reduces the discoloration under your eyes.</description>
+				<price>347.08</price>
+			</product>
+			<head>- Serum -</head>
+			<product new="false">
+				<id></id>
+        <img></img>
+				<name>IGP Anti Wrinkle Eye Serum 5 ml</name>
+				<description>An intensive and quick way to reduce wrinkles around your eyes.</description>
+				<price>618.78</price>
+			</product>
+		</category>
+		<category name="ArmpitCare" code="2">
+			<head>- Roll-On -</head>
+			<product new="false">
+				<id></id>
+        <img></img>
+				<name>IGP Antiperspirant with Vitamin C 50 ml</name>
+				<description>A highly effective antiperspirant with vitamin C that keeps you dry all day.</description>
+				<price>341.01</price>
+			</product>
+			<product new="false">
+				<id></id>
+        <img></img>
+				<name>IGP Tri Action Deodorant 50 ml</name>
+				<description>A deodorant with triple whitening action for maximum whitening that also reduces unpleasant odors. Leaves your skin feeling fresh and dry all day. <xib>Highly Recomended!</xib>
+			</description>
+				<price>549.35</price>
+			</product>
+			<head>- Creams -</head>
+			<product new="false">
+				<id></id>
+        <img></img>
+				<name>IGP Whitening X-tra Strength 10 g</name>
+				<description>A specially formulated cream that whitens your armpit.</description>
+				<price>349.27</price>
+			</product>
+			<product new="false">
+				<id></id>
+        <img></img>
+				<name>IGP Exfoliating 10 g</name>
+				<description>A gentle cream that exfoliates without irritation. A highly recommended all natural product.</description>
+				<price>126.53</price>
+			</product>
+		</category>
+		<category name="Lotions" code="3">
+			<product new="false">
+				<id></id>
+        <img></img>
+				<name>Kojic-Magique Lotion 500 g</name>
+				<description>
+					Natural Kojic product that exfoliates and whitens your skin. Good for morena skin. A natural product.
+				</description>
+				<price>695.83</price>
+			</product>
+			<product new="false" natural="true">
+				<id></id>
+        <img></img>
+				<name>Glutha-Magique Lotion 500 g</name>
+				<description>
+					A whitening and moisturizing herbal lotion. A natural product.
+				</description>
+				<price>695.83</price>
+			</product>
+			<product new="false" natural="true">
+				<id></id>
+        <img></img>
+				<name>Nature White 4 in 1 Lotion 250 g</name>
+				<description>The first multi action whitening lotion. Contains 4 active whitening extracts for maximum whitening effect. A Natural Product.</description>
+				<price>430.47</price>
+			</product>
+			<product new="false" natural="true">
+				<id></id>
+        <img></img>
+				<name>Alpine Whitening Lotion 120 ml</name>
+				<description>
+					A highly effective whitening lotion that gives your skin a silky glow. <xib>Highly Recomended!</xib>
+				</description>
+				<price>430.47</price>
+			</product>
+			<!--<product new="false" natural="true">
+				<id></id>
+        <img></img>
+				<name>IGP Licorice Whitening Plus Lotion 1 lit.</name>
+				<description>Whitening lotion with a higher licorice extract concentration for more effective whitening.</description>
+				<price>3,212.51</price>
+			</product>-->
+			<!--<product new="false" natural="false">
+				<id></id>
+        <img></img>
+				<name>IGP Whitening Lotion with Licorice 1 lit.</name>
+				<description>Whitening lotion with licorice extract.</description>
+				<price>1,905.08</price>
+			</product>-->
+			<!--<product new="false" natural="true">
+				<id></id>
+        <img></img>
+				<name>IGP Bleach Lotion with Sun-block 1 lit.</name>
+				<description>A very effective skin bleaching lotion with the additional sun-blocking properties.</description>
+				<price >1,533.57</price>
+			</product>-->
+			<!--<product new="false" natural="true">
+				<id></id>
+        <img></img>
+				<name>IGP Strawberry Lotion 500 ml</name>
+				<description>A whitening lotion with extract of strawberry. A natural product.</description>
+				<price >828.51</price>
+			</product>-->
+			<!--<product new="false" natural="true">
+				<id></id>
+        <img></img>
+				<name>IGP Tomato Lotion 500 ml</name>
+				<description>A moisturizing lotion with anti-oxidants and tomato extract. A natural product.</description>
+				<price >695.83</price>
+			</product>-->
+			<!--<product new="false" natural="true">
+				<id></id>
+        <img></img>
+				<name>IGP Grape Seed Lotion 500 ml</name>
+				<description>A lotion that moisturizes and whitens your skin with grape seed extract. A natural product.</description>
+				<price>695.83</price>
+			</product>-->
+			<!--<product new="false" natural="true">
+				<id></id>
+        <img></img>
+				<name>IGP Fresh Milk Lotion 500 ml</name>
+				<description>A natural skin whitening lotion with Fresh Milk that smoothens your skin. A natural product.</description>
+				<price>695.83</price>
+			</product>-->
+		</category>
+		<category name="Toners" code="4">
+			<product new="false">
+				<id></id>
+        <img></img>
+				<name>IGP Glycolic Toner 120 ml</name>
+				<description>A toner that whitens your skin, reduces your pores and will smoothen your wrinkle lines.</description>
+				<price>405.72</price>
+			</product>
+			<product new="false">
+				<id></id>
+        <img></img>
+				<name>IGP Glycolic Toner 60 ml</name>
+				<description>A toner that whitens your skin, reduces your pores and will smoothen your wrinkle lines.</description>
+				<price>349.38</price>
+			</product>
+			<product new="false">
+				<id></id>
+        <img></img>
+				<name>IGP Clarifying Toner 120 ml</name>
+				<description>Deep cleansing for your skin giving you a radiant and beautiful face.</description>
+				<price>276.19</price>
+			</product>
+			<product new="false">
+				<id></id>
+        <img></img>
+				<name>IGP Rejuvenating Toner 120 ml</name>
+				<description>A toner with a mild peeling effect that also whitens the skin.</description>
+				<price>349.32</price>
+			</product>
+			<product new="false">
+				<id></id>
+        <img></img>
+				<name>IGP Medicated Toner 60 ml</name>
+				<description>Whitens the skin and reduces pores.</description>
+				<price>299.75</price>
+			</product>
+			<product new="false">
+				<id></id>
+        <img></img>
+				<name>IGP Medicated Toner 120 ml</name>
+				<description>Whitens the skin and reduces pores.</description>
+				<price>350.67</price>
+			</product>
+			<product new="false">
+				<id></id>
+        <img></img>
+				<name>IGP Seaweed Toner 60 ml</name>
+				<description>A mild toner for controlling oiliness of skin. Highly recommended and suitable for teenage skin.</description>
+				<price>288.93</price>
+			</product>
+		</category>
+		<category name="Soaps" code="5">
+			<product new="false" natural="true">
+				<id></id>
+        <img></img>
+				<name>Kojic-Magique Soap Bar</name>
+				<description>
+					A gently exfoliating soap that whitens and cleanses your skin. Recommended for morena skin. A natural product.
+				</description>
+				<price>149.49</price>
+			</product>
+			<product new="false" natural="true">
+				<id></id>
+        <img></img>
+				<name>Glutha-Magique Soap Bar</name>
+				<description>A moisturizing and whitening soap. A natural product.
+			</description>
+				<price>149.49</price>
+			</product>
+			<product new="false" natural="true">
+				<id></id>
+        <img></img>
+				<name>IGP Placenta Soap Bar</name>
+				<description>A soap with special ingredients that cures skin problems and has an anti-aging effect. A natural product.</description>
+				<price>149.49</price>
+			</product>
+			<product new="false" natural="true">
+				<id></id>
+        <img></img>
+				<name>Señora Javon Soap Bar</name>
+				<description>
+					For use as a regular cleansing soap that whitens and gently exfoliates your skin. <xib>Best Seller!</xib>
+				</description>
+				<price>279.00</price>
+			</product>
+			<product new="false" natural="true">
+				<id></id>
+        <img></img>
+				<name>IGP Strawberry Soap Bar</name>
+				<description>A soap bar with whitening and exfoliating properties and a scent of strawberry. A natural product.</description>
+				<price>149.49</price>
+			</product>
+			<product new="false" natural="true">
+				<id></id>
+        <img></img>
+				<name>IGP Intensive Whitening Soap</name>
+				<description>Highly effective whitening soap.</description>
+				<price>276.06</price>
+				</product>
+			<product new="false" natural="true">
+				<id></id>
+        <img></img>
+				<name>IGP Transparent Soap</name>
+				<description>Cleanses and moisturizes sensitive skin.</description>
+				<price>149.49</price>
+			</product>
+			<product new="false" natural="true">
+				<id></id>
+        <img></img>
+				<name>IGP Tretinoin Soap</name>
+				<description>An anti-wrinkle soap that reduces the signs of aging.</description>
+				<price>149.49</price>
+			</product>
+			<!--<product new="false" natural="true">
+				<id></id>
+        <img></img>
+				<name>IGP Licorice Soap</name>
+				<description>Lightens the skin tone and gently eliminates skin pigmentation and blemishes.</description>
+				<price>220.30</price>
+			</product>-->
+			<product new="false" natural="true">
+				<id></id>
+        <img></img>
+				<name>IGP Green Papaya Soap</name>
+				<description>Gently peels to eliminate blemishes for a whiter complexion.</description>
+				<price>149.49</price>
+			</product>
+			<!--<product new="false" natural="true">
+				<id></id>
+        <img></img>
+				<name>IGP Honey Oatmeal Soap Bar</name>
+				<description>Exfoliates dead skin with whitening effect and a wonderful oatmeal scent. A natural product.</description>
+				<price>149.49</price>
+			</product>-->
+			<!--<product new="false" natural="true">
+				<id></id>
+        <img></img>
+				<name>IGP Virgin Coconut Soap Bar</name>
+				<description>Effective against skin deceases, highly moisturizing, and has anti-wrinkle properties. A natural product.</description>
+				<price>149.49</price>
+			</product>-->
+			<!--<product new="false" natural="true">
+				<id></id>
+        <img></img>
+				<name>IGP Whitening Soap Bar</name>
+				<description>A whitening soap especially effective on dark skin. A natural product.</description>
+				<price>220.30</price>
+			</product>-->
+			<product new="false" natural="true">
+				<id></id>
+        <img></img>
+				<name>IGP Tea Tree Soap Bar</name>
+				<description>
+					The anti-acne soap. It dries out pimples and is anti-bacterial. Good for acne prone teenage skin. <xib>Best Seller!</xib>
+				</description>
+				<price>170.98</price>
+			</product>
+			<product new="false" natural="true">
+				<id></id>
+        <img></img>
+				<name>IGP Calamansi Soap Bar</name>
+				<description>Lightens the skin with deodorant effect.</description>
+				<price>99.45</price>
+			</product>
+		</category>
+		<category name="Creams" code="6">
+			<product new="false" natural="true">
+				<id></id>
+        <img></img>
+				<name>IGP Skin Radiance Cream 10 g</name>
+				<description>
+					A whitening cream for an even and radiant complexion. <xib>Best Seller!</xib>
+				</description>
+				<price>334.67</price>
+			</product>
+			<product new="false" natural="true">
+				<id></id>
+        <img></img>
+				<name>IGP Moisturizing Cream 10 g</name>
+				<description>A moisturizing cream giving you a smooth and soft skin.</description>
+				<price>137.22</price>
+			</product>
+			<product new="false" natural="true">
+				<id></id>
+        <img></img>
+				<name>IGP Kojic Cream 10 g</name>
+				<description>An effective whitening cream.</description>
+				<price>286.36</price>
+			</product>
+			<product new="false" natural="true">
+				<id></id>
+        <img></img>
+				<name>IGP Placenta Cream 10 g</name>
+				<description>For a younger looking skin with whitening and anti-aging effect. Recommended for sensitive skin.</description>
+				<price>349.42</price>
+			</product>
+			<product new="false" natural="true">
+				<id></id>
+        <img></img>
+				<name>IGP Glutathione Cream 10 g</name>
+				<description>A moisturizing and whitening cream.</description>
+				<price>313.51</price>
+			</product>
+			<product new="false" natural="true">
+				<id></id>
+        <img></img>
+				<name>IGP Whitening Cream Intensive 10 g</name>
+				<description>An advanced whitening cream that whitens, smoothens and refreshes your skin.</description>
+				<price>449.98</price>
+			</product>
+			<product new="false" natural="true">
+				<id></id>
+        <img></img>
+				<name>IGP Fruit C Cream 10 g</name>
+				<description>A whitening cream with anti-oxidants and vitamin C. Good for acne prone skin.</description>
+				<price>247.83</price>
+			</product>
+			<product new="false" natural="true">
+				<id></id>
+        <img></img>
+				<name>IGP Night Cream 10 g</name>
+				<description>
+					A bleaching night cream with 4 active ingredients. Sleep yourself Whiter. <xib>Highly Recomended!</xib>
+				</description>
+				<price>185.00</price>
+			</product>
+			<product new="false" natural="true">
+				<id></id>
+        <img></img>
+				<name>IGP R.A. Cream 20 g</name>
+				<description>An anti-wrinkle cream containing retinoic acid. Helps preventing wrinkles from aging and stress.</description>
+				<price>225.54</price>
+			</product>
+		</category>
+		<category name="BodySpa" code="7">
+			<head>- Scrubber Creams with Granules -</head>
+			<product new="false" natural="true">
+				<id></id>
+        <img></img>
+				<name>IGP Licorice Scrubber Cream 200 g</name>
+				<description>A skin whitening scrubber cream with licorice extract for beautiful looking skin.</description>
+				<price>1,024.10</price>
+			</product>
+			<product new="true" natural="true">
+				<id></id>
+        <img></img>
+				<name>IGP Papaine Scrubber 500 g</name>
+				<description>Contains Papaya extract. Exfoliates and removes dead skin.</description>
+				<price>1,083.44</price>
+			</product>
+			<!--<product new="false" natural="true">
+				<id></id>
+        <img></img>
+				<name>IGP Green Papaya 120 ml</name>
+				<description>Contains Green Papaya exfoliates and removes dead skin.</description>
+				<price>267.96</price>
+			</product>-->
+			<product new="false" natural="true">
+				<id></id>
+        <img></img>
+				<name>IGP Grape Seed Body Scrub 200 g</name>
+				<description>
+					Tightens and tones the skin. High in vitamins and minerals. <xib>Highly Recomended!</xib>
+				</description>
+				<price>429.18</price>
+			</product>
+			<head>- Masques -</head>
+			<product new="false" natural="true">
+				<id></id>
+        <img></img>
+				<name>IGP Papaine Whitening Masque 200 g</name>
+				<description>
+					A skin relaxing and whitening masque that rejuvenates your skin. <xib>Best Seller!</xib>
+				</description>
+				<price>729.66</price>
+			</product>
+			<product new="false" natural="true">
+				<id></id>
+        <img></img>
+				<name>IGP Body Bleach Masque 200 g</name>
+				<description>A highly effective body bleaching masque that gives you a beautiful fair and light complexion.</description>
+				<price>2,168.71</price>
+			</product>
+			<head>- Clay Packs -</head>
+			<product new="false" natural="true">
+				<id></id>
+        <img></img>
+				<name>IGP Collagen Clay Pack 200 g</name>
+				<description>A moisturizing clay pack that gives you a firmer, whiter and younger looking skin.</description>
+				<price>1,031.73</price>
+			</product>
+			<product new="false" natural="true">
+				<id></id>
+        <img></img>
+				<name>IGP Whitening Clay Pack 200 g</name>
+				<description>A whitening soothing clay pack for a fairer looking skin.</description>
+				<price>816.59</price>
+			</product>
+		</category>
+		<category name="Massage" code="8">
+			<head>- Creams -</head>
+			<product new="false" natural="true">
+				<id></id>
+        <img></img>
+				<name>MagicTouch Aloe Vera Cream 200 g</name>
+				<description>A smoothening massage cream with Aloe Vera for revitalizing massages.</description>
+				<price>493.05</price>
+			</product>
+			<product new="false" natural="true">
+				<id></id>
+        <img></img>
+				<name>MagicTouch Eucalyptus Cream 200 g</name>
+				<description>A rejuvinating massage cream with the enchanting scent of Eucalyptus.</description>
+				<price>493.05</price>
+			</product>
+			<product new="false" natural="true">
+				<id></id>
+        <img></img>
+				<name>MagicTouch  Green Tea Cream 200 g</name>
+				<description>A relaxing cream with the exotic Green Tea scent.</description>
+				<price>493.05</price>
+			</product>
+			<product new="false" natural="true">
+				<id></id>
+        <img></img>
+				<name>MagicTouch  Lavender Cream 200 g</name>
+				<description>Everybody’s favorite smooth cream with the ever popular Lavender scent.</description>
+				<price>493.05</price>
+			</product>
+			<product new="false" natural="true">
+				<id></id>
+        <img></img>
+				<name>MagicTouch  Peppermint Cream 200 g</name>
+				<description>A cooling cream for those special occasions.</description>
+				<price>493.05</price>
+			</product>
+			<head>- Oils -</head>
+			<product new="false" natural="true">
+				<id></id>
+        <img></img>
+				<name>MagicTouch  Aloe Vera Oil 200 ml</name>
+				<description>A special massage oil with Aloe Vera for relaxing massages.</description>
+				<price>384.11</price>
+			</product>
+			<product new="false" natural="true">
+				<id></id>
+        <img></img>
+				<name>MagicTouch  Eucalyptus Oil 200 ml</name>
+				<description>An uplifting massage oil with the scent of Eucalyptus.</description>
+				<price>384.11</price>
+			</product>
+			<product new="false" natural="true">
+				<id></id>
+        <img></img>
+				<name>MagicTouch  Green Tea Oil 200 ml</name>
+				<description>The exotic Green Tea scent in a relaxing massage oil.</description>
+				<price>384.11</price>
+			</product>
+			<product new="false" natural="true">
+				<id></id>
+        <img></img>
+				<name>TouchByTouch  Lavender Oil 1 lit</name>
+				<description>The ever popular Lavender scent in our smooth massage oil.</description>
+				<price>787.48</price>
+			</product>
+			<product new="false" natural="true">
+				<id></id>
+        <img></img>
+				<name>TouchByTouch Peppermint Oil 1 lit</name>
+				<description>A cooling massage oil with the aroma of Peppermint.</description>
+				<price>787.48</price>
+			</product>
+			<product new="false" natural="true">
+				<id></id>
+        <img></img>
+				<name>TouchByTouch Eucalyptus Oil 1 lit</name>
+				<description>Exotic eucalyptus scent in a high quality massage oil.</description>
+				<price>787.48</price>
+			</product>
+			<product new="false" natural="true">
+				<id></id>
+        <img></img>
+				<name>MagicTouch Bubblegum Oil 200 ml</name>
+				<description>A scent that brings back memories.</description>
+				<price>384.11</price>
+			</product>
+		</category>
+		<!--<category name="Slimming" code="9">
+			<head>- Creams -</head>
+			<product new="false" natural="true">
+				<id></id>
+        <img></img>
+				<name>IGP Cosmetic Liposuction Cream 200 g</name>
+				<description>A very effective cream that removes unwanted fat in the region where applied. Highly recommended with a diet program for maximum effect.</description>
+				<price>1,856.47</price>
+			</product>
+			<head>- Gels -</head>
+			<product new="false" natural="true">
+				<id></id>
+        <img></img>
+				<name>IGP Bust Firming Gel 100 g</name>
+				<description>For the firmer bust that you always desired.</description>
+				<price>809.13</price>
+			</product>
+		</category>-->
+		<category name="SunBlock" code="10">
+			<head>- Creams -</head>
+			<product new="false" natural="true">
+				<id></id>
+        <img></img>
+				<name>IGP Physical SunBlock 20 g / SPF 30</name>
+				<description>
+					Top protection against the sun’s harmful rays. <xib>Highly Recomended!</xib>
+				</description>
+				<price>299.00</price>
+			</product>
+			<product new="false" natural="true">
+				<id></id>
+        <img></img>
+				<name>IGP SunBlock Foundation with Placenta Cream 20 g / SPF 30</name>
+				<description>Moisturizes and protects your skin from the sun.</description>
+				<price>259.65</price>
+			</product>
+			<product new="false" natural="true">
+				<id></id>
+        <img></img>
+				<name>IGP Tinted Sunblock Foundation 20 g / SPF 30</name>
+				<description>Available in 3 colors: Beige, Ivory, and Tan.</description>
+				<price>253.96</price>
+			</product>
+			<product new="false" natural="true">
+				<id></id>
+        <img></img>
+				<name>IGP Super 10 g / SPF 45</name>
+				<description>Super protection against the sun’s harmful rays. For a higher degree of protection.</description>
+				<price>338.08</price>
+			</product>
+			<product new="false" natural="true">
+				<id></id>
+        <img></img>
+				<name>IGP Ultra 10 g / SPF 60</name>
+				<description>Ultra high protection against the harmful rays from the sun. In particular suitable for sensitive skin and people requiring optimum protection.</description>
+				<price>412.31</price>
+			</product>
+			<head>- Gels -</head>
+			<product new="false" natural="true">
+				<id></id>
+        <img></img>
+				<name>IGP Regular 10 g / SPF 15</name>
+				<description>Regular protection against the sun’s harmful rays.</description>
+				<price>227.23</price>
+			</product>
+			<head>- Lotions -</head>
+			<product new="false" natural="true">
+				<id></id>
+        <img></img>
+				<name>IGP Physical SunBlock 60 ml / SPF 30</name>
+				<description>
+					Top protection against the sun’s harmful rays. <xib>Highly Recomended!</xib>
+				</description>
+				<price>345.01</price>
+			</product>
+			<product new="false" natural="true">
+				<id></id>
+        <img></img>
+				<name>IGP Super 60 ml / SPF 45</name>
+				<description>Super protection against the sun’s harmful rays. For a higher degree of protection.</description>
+				<price>402.90</price>
+			</product>
+			<product new="false" natural="true">
+				<id></id>
+        <img></img>
+				<name>IGP Ultra 60 ml / SPF 60</name>
+				<description>Ultra high protection against the harmful rays from the sun. In particular suitable for sensitive skin and people requiring optimum protection.</description>
+				<price>494.70</price>
+			</product>
+		</category>
+		<category name="Supplements" code="11">
+			<product new="false" natural="true">
+				<id></id>
+        <img></img>
+				<name>Lucida-DS Capsules 500mg / 30 capsules</name>
+				<description>Double strength Glutathione. (made in USA BFAD approved)</description>
+				<price>1,472.54</price>
+			</product>
+			<!--<product new="false" natural="true">
+				<id></id>
+        <img></img>
+				<name>Dr. James 1,000 mg / 60 capsules (made in USA)</name>
+				<description>100% pure natural Glutathione with Alpha-T acids.</description>
+				<price>1,981.70</price>
+			</product>-->
+			<!--<product new="false" natural="true">
+				<id></id>
+        <img></img>
+				<name>Health Cap Glutathione 1 week supply (made in USA)</name>
+				<decription>A popular antioxidant supplement with a whitening side-effect. Manufactured in the US.</decription>
+				<price>845.90</price>
+			</product>-->
+			<!--<product new="false" natural="true">
+				<id></id>
+        <img></img>
+				<name>Claire’ Blanche 1,500 mg / 60 capsules (made in USA)</name>
+				<description>
+					Contains L-Glutathione 1,000mg, Rosehips 200mg, Vitamin C 50mg, Alpha Lipoic 150mg
+					Grapeseed extract 100mg,
+				</description>
+				<price>2,576.83</price>
+			</product>-->
+		</category>
+	</Products>
+</Page>
+			

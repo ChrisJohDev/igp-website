@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Page>
+	<block><text-block>
+		<head>
+			Intensity Glow Products
+		</head>
+		<slogan>
+			Beauty that Glows!
+		</slogan>
+		<error>
+				Page Unavailable!
+		</error>
+		<content align="center">
+			This page is not available at the moment.
+		</content>
+	</text-block></block>
+	<block><text-block>
+		<content>
+			This might be due to current updates and improvements of our site or that the requested page is unavailable due to other circumstances.
+		</content>
+	</text-block></block>
+	<block><text-block>
+		<content>
+			We apologize for any inconveniences this might have caused. Please come back and try later.<xhr />
+		</content>
+	</text-block></block>
+</Page>

@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Web Developer Express 2008
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "igp", "http://localhost/igp", "{97472061-A8B6-419C-97C5-9292CCB96985}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFramework = "2.0"
+		Debug.AspNetCompiler.VirtualPath = "/igp"
+		Debug.AspNetCompiler.PhysicalPath = "..\igp\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\igp\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/igp"
+		Release.AspNetCompiler.PhysicalPath = "..\igp\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\igp\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		SlnRelativePath = "..\igp\"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|.NET = Debug|.NET
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{97472061-A8B6-419C-97C5-9292CCB96985}.Debug|.NET.ActiveCfg = Debug|.NET
+		{97472061-A8B6-419C-97C5-9292CCB96985}.Debug|.NET.Build.0 = Debug|.NET
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

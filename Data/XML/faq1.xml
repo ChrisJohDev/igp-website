@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Page>
+	<slogan>
+		Frequently Asked Questions
+	</slogan>
+	<block><text-block>
+		<content>
+			We will answer some of the most frequently asked questions that always comes up when we talk about beauty products in general and some products in particular. It is intended to give you answers to some of the most frequent questions that we have encountered and as soon as any new ones arise we will include them in this page too to make that information available to our customers too.
+		</content>
+	</text-block></block>
+	<block><text-block>
+		<first-line>
+			Question:
+		</first-line>
+		<content>
+			What is causing an increase in pigmentation?
+		</content>
+	</text-block></block>
+	<block><text-block>
+		<first-line>
+			Answer:
+		</first-line>
+		<content>
+			The body contains pigment. This is the substance that colors skin. Skin color darkens with higher concentration of pigment. The most common reason for an increase and thereby darker skin is exposure to the sun. It is therefore of vital importance that when you are trying to get a fairer complexion that you not only use the products that whitens your skin but even more important that you protect your skin at all times with a good sun-block or sun-screen. Other factors that are known to increase your pigmentation are pregnancy, hereditary reasons, not having used sun protection when using other applications to whiten your skin, oral contraceptives, and some chemicals.
+		</content>
+	</text-block></block>
+	<block><text-block>
+		<first-line>
+			Question:
+		</first-line>
+		<content>
+			Why do I get acne / pimples?
+		</content>
+	</text-block></block>
+	<block><text-block>
+		<first-line>
+			Answer:
+		</first-line>
+		<content>
+			The acne problem is most predominant in ones teenage years. It is caused by the big changes in hormones that occur in that age. For most of us it disappears all by itself after that, but for some the problem still remains into adulthood. Some people especially women can develop this problem even in their late 20’s and even if they have or not had any acne outbreaks before. Acne is caused by cells close to the surface block the openings of sebaceous glands and causes a buildup of oil underneath. The bacteria we normally have and should have in our skin is then multiplying and cause the surrounding tissue to become inflamed. This is known as acne. The following is the forms that acne can take: whiteheads, blackheads, pimples, whiteheads, congested pores, and cysts aka deep pimples.
+		</content>
+	</text-block></block>
+
+	<!--<block><text-block>
+		<first-line>
+		</first-line>
+		<content>
+		</content>
+	</text-block></block>-->
+</Page>

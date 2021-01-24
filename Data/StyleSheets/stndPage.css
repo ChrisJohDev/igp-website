@@ -1,0 +1,84 @@
+﻿body {
+}
+.pageText
+{
+	font-size: x-small;
+	color: blue;
+	font-family: Sans-Serif;
+	position: static;
+	background-color: #f5f5f5;
+	text-align: left;
+}
+.cmpNameCenter
+{
+	font-weight: bold;
+	font-size: x-large;
+	vertical-align: middle;
+	color: blue;
+	font-family: 'Gill Sans MT' , Sans-Serif;
+	position: static;
+	background-color: transparent;
+	text-align: center;
+}
+.cmpName
+{
+	font-weight: bold;
+	font-size: x-large;
+	vertical-align: middle;
+	color: blue;
+	font-family: 'Gill Sans MT' , Sans-Serif;
+	position: static;
+	background-color: transparent;
+}
+.sloganCenter
+{
+	font-size: large;
+	color: blue;
+	font-style: italic;
+	font-family: Garamond, Sans-Serif;
+	position: static;
+	background-color: transparent;
+	text-align: center;
+}
+.slogan
+{
+	font-size: large;
+	color: blue;
+	font-style: italic;
+	font-family: Garamond, Sans-Serif;
+	position: static;
+	background-color: transparent;
+}
+.copyright
+{
+	font-size: xx-small;
+	vertical-align: middle;
+	color: blue;
+	direction: ltr;
+	line-height: normal;
+	font-family: 'Palatino Linotype' , Sans-Serif;
+	letter-spacing: normal;
+	position: static;
+	background-color: transparent;
+	text-align: center;
+}
+hr
+{
+	border-right: thin dashed;
+	border-top: thin dashed;
+	border-left: thin dashed;
+	border-bottom: thin dashed;
+}
+
+.tmp
+{
+    position: static;
+    overflow: scroll;
+    width: 100%;
+    height: 100%;
+    top: 0px;
+    left: 0px;
+    clip: rect(inherit, inherit, inherit, inherit);
+    table-layout: fixed;
+    background-color: #FFFF66;
+}

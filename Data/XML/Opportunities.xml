@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Page>
+	<head>
+		Opportunities &amp; Openings with IGP
+	</head>
+	<slogan>
+		This page lists job openings and other opportunities available at Intensity Glow Products.
+	</slogan>
+	<block><text-block>
+		<first-line>
+			Job Openings
+		</first-line>
+		<content>
+			We are sorry but at this time there are no Job openings with our company. Please, come back and visit us as job openings will always appear on this page first before they are advertised.
+		</content>
+	</text-block></block>
+	<block><text-block>
+		<first-line>
+			Other Opportunities
+		</first-line>
+    <content>
+      We are presently expanding our network of outlets that make our over the counter products available to the public. See the page &quot;<link src="javascript:__doPostBack('Menu1','infInformation\\infOutlets')">Stores - Outlets</link>&quot; under the &quot;Information&quot; menu for further information.<xbr />
+      If you are interested in making a profit for your self and are interested in beauty and beauty products take a look at our &quot;<link src="javascript:__doPostBack('Menu1','infInformation\\infNewResellers')">New Reseller</link>&quot; page also under the &quot;Information&quot; menu where you will find more information about our membership clubs.
+    </content>
+	</text-block></block>
+</Page>

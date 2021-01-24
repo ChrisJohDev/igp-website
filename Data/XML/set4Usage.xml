@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Page>
+	<slogan>
+		IGP Acne Control Set Usage Instructions
+	</slogan>
+	<block><text-block>
+		<content>
+			To get the most out of your purchase you need to follow these simple steps in using your product.
+		</content>
+	</text-block></block>
+	<block><text-block>
+		<first-line>
+			In the Morning:
+		</first-line>
+		<content>
+			1)	<xb>Soap:</xb><xbr />
+			Wash your face with the soap as normal and dry your skin with a soft clean towel or soft cloth. The soap will drive out pimples and it is also anti-bacterial.<xbr />
+		2)	<xb>Toner:</xb><xbr />
+		Moisten a cotton ball with the toner and gently wipe your face. It will aid in controlling the oiliness of your skin.<xbr />
+		3) <xb>Solution:</xb><xbr />
+		Moisten a cotton bud with the solution and apply it on affected areas only. It will dry out the pimples faster.<xbr />
+		4)	<xb>SunBlock:</xb><xbr />
+		Apply the sunblock 10 minutes after you have used the solution. It will guard your skin against the sun.
+		<xbr />
+	</content>
+</text-block></block>
+<block><text-block>
+	<first-line>
+		For the Evening:
+	</first-line>
+	<content>
+		1)	<xb>Soap:</xb><xbr />
+		As in the morning, wash your face with the soap as normal and dry your skin with a soft clean towel or soft cloth.<xbr />
+	2)	<xb>Toner:</xb><xbr />
+	Moisten a cotton ball with the toner and gently wipe your face just as you did in the morning.<xbr />
+		3)	<xb>Solution:</xb><xbr />
+		Once again follow your morning routine and moisten a cotton bud with the solution and apply it on affected areas only.<xbr />
+		4) <xb>Night Cream:</xb><xbr />
+			Apply this cream on your face every night. It is anti-bacterial and also has a whitening effect.
+			<xhr />
+		</content>
+	</text-block></block>
+
+	<!--<block><text-block>
+		<first-line>
+		</first-line>
+		<content>
+		</content>
+	</text-block></block>-->
+</Page>

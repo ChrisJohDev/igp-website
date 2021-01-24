@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<Page>
+	<slogan>
+		IGP Company Information
+	</slogan>
+	<block><text-block>
+		<first-line>
+      Intensity Glow Products was established in 2007
+    </first-line>
+		<content>
+      We are a duly registered company with DTI and BIR in the Philippines.
+    </content>
+	</text-block></block>
+	<block><text-block>
+		<content>
+      We specialize in beauty products specially designed for the Asian markets and to satisfy the increasing demand of high quality products for Asian women.
+    </content>
+	</text-block></block>
+	<block><text-block>
+		<content>
+      Our line of products is very effective and achieves what they claim to do and yet they are very gentle and don’t harm your skin. Our effort to provide high quality products at reasonable prices has been exceptionally well received by our customers, which our high percentage of repeat orders proves.
+    </content>
+	</text-block></block>
+	<block><text-block>
+		<content>
+      We have recently released a limited number of products for over the counter sales, and in this writing moment there are an increasing number of outlets that have shown real interest in providing these top quality products.
+    </content>
+	</text-block></block>
+  <block><text-block>
+    <content>
+      For 2008 we have decided to build a new website that is now under construction. We will then, amongst many other things, be able to display outlets that provide our over the counter products and resellers that sells our entire line of products. We are also planning on making web-sales available at our site so that you can order any products that we offer from the comfort of your own home or office with a credit card. The site will also contain a lot of more user-interactive functionalities that we hope that you will appreciate and a new user interface. A continued expansion of available outlets is also on the way as are an ever increasing number of resellers.
+    </content>
+  </text-block></block>
+  <block><text-block>
+    <content>
+      We hope that you are as excited about these new developments as we are. To provide the best products on the market and excellence in service is our leading star and what we all strive for here at IGP. We are always open to hear what you think and whatever suggestions that you might have. You are very important to us and we would like to provide you with the best service, products, and help that we can. For contact information please see our <link src="javascript:__doPostBack('Menu1','cmpInfo\\cmpContact')">Contact Us</link> page.
+    </content>
+  </text-block></block>
+	<!--<block><text-block>
+		<content>
+			We hope that you will enjoy our products and we are always open to hear what you think and we also welcome any suggestions and thoughts that you might have. For contact information please see our <link src="javascript:__doPostBack('Menu1','cmpInfo\\cmpContact')">Contact Us</link> page.
+		</content>
+	</text-block></block>
+	<block><text-block>
+		<content>
+			
+		</content>
+	</text-block></block>
+	<block><text-block>
+		<content>
+			Sincerely Yours,<xbr />Intensity Glow Products<xhr />
+		</content>
+	</text-block></block>-->
+</Page>

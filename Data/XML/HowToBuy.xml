@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Page>
+	<slogan>
+		How To Buy
+	</slogan>
+	<block><text-block>
+		<first-line>
+			Buying is easy!
+		</first-line>
+		<content>
+			<xbr />
+      We provide you with several ways of buying our products. You can buy from a store near you, from your local Intensity Glow Products representative, put an order in an email to <email data="sales@igp.ph">sales@igp.ph</email>, text your order to one of our mobile numbers, or call us.
+		</content>
+	</text-block></block>
+	<block><text-block>
+		<content>
+			<xb>
+				For inquiries email us at
+			</xb><email data="info@igp.ph">info@igp.ph</email>
+			<xb> or text us.
+			</xb>
+		</content>
+	</text-block></block>
+	<block><text-block>
+		<first-line>
+			To place an order with your local representative:
+		</first-line>
+		<content>
+			<xbr />
+			1)	Contact your local representative and tell them which products you wish to purchase. They can also give you advice and help in choosing the right products for you.<xbr />
+			2)	You and your local IGP representative will then agree on when the products will be delivered and how payments will be arranged.<xhr />
+		</content>
+	</text-block></block>
+	<block><text-block>
+		<first-line>
+			To place an order by E-Mail:
+		</first-line>
+		<content>
+			<xbr />
+			1)	Put your full name, address, contact number, and the products that you wish to purchase in an email and send it to <email data="sales@igp.ph">sales@igp.ph</email><xbr />
+			2)	When you receive our confirmation on your order then make the payment to our bank account as indicated below for the full amount of your purchase including shipping and handling fees.<xbr />
+			3)	Email us about your payment stating date, time, amount paid, your confirmation number, and where the payment was made.<xbr />
+			4)	After your payment has been verified and received in our bank account we will send you your products.<xhr />
+		</content>
+	</text-block></block>
+	<block><text-block>
+		<first-line>
+			To place an order by SMS (Text-Message):
+		</first-line>
+		<content>
+			<xbr />
+			1)	Send your full name, address and the products you wish to purchase to <xb>SMART: 0921 674 5033</xb>, or <xb>Globe: 0927 255 4346</xb><xbr />
+			2)	When you receive our confirmation and your confirmation number make the payment to our bank account as indicated below for the full amount of your purchase including shipping and handling fees.<xbr />
+			3)	Text us about your payment stating date, time, amount paid, your confirmation number, and where the payment was made.<xbr />
+			4)	After your payment has been verified and received in our bank account we will send you your products.<xhr />
+		</content>
+	</text-block></block>
+	<block><text-block>
+		<first-line>
+			To place an order by phone:
+		</first-line>
+		<content>
+			<xbr />
+			1)	Call us on <xb>SMART: 0921 674 5033</xb>, or <xb>Globe: 0927 255 4346</xb> and give us your full name, address and the products you wish to purchase.<xbr />
+			2)	We will contact you and give you your confirmation number, then make the payment to our bank account as indicated below for the full amount of your purchase including shipping and handling fees.<xbr />
+			3)	Inform us by phone, text, or email (<email data="sales@igp.ph">sales@igp.ph</email>) about your payment stating date, time, amount paid, your confirmation number, and where the payment was made.<xbr />
+			4)	After your payment has been verified and received in our bank account we will send you your products.<xhr />
+		</content>
+	</text-block></block>
+	<block><text-block>
+		<content>
+			For orders over the phone, SMS (text-message), or email you will make the payments to the following Bank account.
+		</content>
+	</text-block></block>
+	<block><text-block>
+		<content>
+			Account Name: Raquel C. Tarucan<xbr />
+			Bank: Banco De Oro Universal Bank, SM Southmall II Branch<xbr />
+			Account number: 112 022 4266<xhr />
+		</content>
+	</text-block></block>
+	<block><text-block>
+		<content>
+			For terms and conditions see our <link src="javascript:__doPostBack('Menu1','infInformation\\Terms')">"Terms and Condition"</link> page.<xhr />
+		</content>
+	</text-block></block>
+</Page>

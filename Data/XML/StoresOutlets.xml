@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Page>
+	<slogan>
+    Intensity Glow Products - Stores &amp; Outlets opportunities
+  </slogan>
+  <block>
+	  <text-block>
+		  <first-line>
+        Dear Owners &amp; Managers,
+      </first-line>
+		  <content>
+        Intensity Glow Products is proud to introduce our limited line of products for sales in stores and other outlets. The decision to start marketing a limited line of products for public sale in stores and other outlets was sprung from requests of our customers.
+      </content>
+	  </text-block>
+  </block>
+  <block>
+	<text-block>
+		<content>
+      We have already started to sell our products in some selected stores and there are a number of other stores standing in line to supply our products to their customers.
+    </content>
+	</text-block>
+  </block>
+  <block>
+  <text-block>
+		<content>
+      We have two sales models for stores and outlets consisting of regular sales and consignment sales. The most profitable for the store owner / manager is of course the regular sales model but for managers and owners that cannot or do not want to pay in advance we have the consignment sales alternative too. For more information, please contact IGP.
+    </content>
+	</text-block>
+  </block>
+  <block>
+  <text-block>
+		<content>
+      As always with IGP we provide you with support and material that will increase your sales.
+    </content>
+	</text-block>
+  </block>
+  <block>
+  <text-block>
+		<content>
+      When you feel that you want to increase your profits by offering our high quality products to your customers contact us and a trained IGP sales representative will visit you at your convenience.
+    </content>
+	</text-block></block>
+  <block><text-block>
+    <first-line>
+    </first-line>
+    <content>
+      In late 2007 we introduced two products for sale in stores and outlets. These products are our Glutha-Magique soap, and Kojic-Magique soap. These products are market together as our Magique Duo. In the latter part of 2008 we are planning to expand the product line based on the feedback that we get from the market.
+    </content>
+  </text-block></block>
+  <block><text-block>
+    <first-line>
+      Samples of products in the Magique Duo campaign.
+    </first-line>
+    <content>
+    </content>
+  </text-block>
+    <img id="smpl1" src="Data/Graphics/Glutha-Mag-Soap-Small.gif" alt="Glutha-Magique Soap" align="center" style="height:100px;width:133px;border-width:2px;" />
+    <!--<xhr />-->
+    <img id="smpl2" src="Data/Graphics/Kojic-Mag-Soap-Small.gif" alt="Kojic-Magique Soap" align="center" style="height:100px;width:133px;border-width:2px;" />
+    <xhr />
+  </block>
+</Page>
+	<!--<block>
+    <text-block>
+		  <first-line>
+		  </first-line>
+		  <content>
+		  </content>
+	  </text-block>
+  </block>-->

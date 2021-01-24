@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Page>
+	<slogan>
+		IGP Body Bleaching Set Usage Instructions
+	</slogan>
+	<block><text-block>
+		<content>
+			To get the most out of your purchase you need to follow these simple steps in using your product.
+		</content>
+	</text-block></block>
+	<block><text-block>
+		<first-line>
+			In the Morning:
+		</first-line>
+		<content>
+			1)	<xb>Soap:</xb><xbr />
+			Wash your body with the soap as with a regular soap. It will whiten and moisturize your body.<xbr />
+			2)	<xb>Lotion:</xb><xbr />
+		Apply the lotion on your body. It is a highly effective whitening lotion.<xbr />
+		3)	<xb>SunBlock:</xb><xbr />
+		Apply the sunblock in ample amounts on your body. It will guard your skin against the sun. This is a very important step in achieving a fairer complexion.
+		<xbr />
+	</content>
+</text-block></block>
+<block><text-block>
+	<first-line>
+		For the Evening:
+	</first-line>
+	<content>
+		1)	<xb>Soap:</xb><xbr />
+		As in the morning, wash your body with the soap as with a regular soap.<xbr />
+		2)	<xb>Body Scrub:</xb><xbr />
+		Apply the Body Scrub on your body with gentle massaging movements. When done wash it off.<xbr />
+		3)	<xb>Lotion:</xb><xbr />
+			Apply the lotion to your body just as you did in the morning.
+			<xhr />
+		</content>
+	</text-block></block>
+
+	<!--<block><text-block>
+		<first-line>
+		</first-line>
+		<content>
+		</content>
+	</text-block></block>-->
+</Page>

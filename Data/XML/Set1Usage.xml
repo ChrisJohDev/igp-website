@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Page>
+	<slogan>
+		Intensity Glow Set Usage Instructions
+	</slogan>
+	<block><text-block>
+		<content>
+			To get the most out of your purchase you need to follow these simple steps in using your product.
+		</content>
+	</text-block></block>
+	<block><text-block>
+		<first-line>
+			In the Morning:
+		</first-line>
+		<content>
+			1)	<xb>Soap:</xb><xbr />
+			Use it as a regular soap for your morning face wash. It will whiten your skin and gently exfoliate dead skin cells from your face leaving smooth, whiter and clean.<xbr />
+			2)	<xb>Toner:</xb><xbr />
+			Gently apply the toner on your face thoroughly without rubbing with a cotton ball<xbr />
+			3)	<xb>Cream:</xb><xbr />
+			Apply the cream gently and thoroughly on your face. It will moisturize your skin and give you that blooming effect.<xbr />
+			4)	<xb>SunBlock:</xb><xbr />
+			This is a very important part that you should NOT skip. Apply the sunblock amply to your face and neck at least 30 minutes before you get exposure to the sun. This will help you preserve the effects of the other products that you have just used. The sunblock is the most important step in achieving a fairer complexion without it you risk to lose the benefits that the other products in this set has given you.<xbr />
+		</content>
+	</text-block></block>
+	<block><text-block>
+		<first-line>
+			For the Evening:
+		</first-line>
+		<content>
+			1)	<xb>Soap:</xb><xbr />
+			As in the morning, wash your face thoroughly with the soap to wash away the layers that has been deposited during the day. It will give you a smoother and clean face for the rest of the products.<xbr />
+			2)	<xb>Toner:</xb><xbr />
+			Do as you did in the morning apply it gently without rubbing it into your face with a cotton ball.<xbr />
+			3)	<xb>Cream:</xb><xbr />
+			Yet again follow the same procedure that you did in the morning to give moisture to your face.<xbr />
+			4)	<xb>Night  Cream:</xb><xbr />
+			This is the thing that is different from your morning routine. Apply this moisturizing cream on your face and let it work for you overnight. It will give you a smoother skin when you wake up in the morning and now you are well on your way to a newer, softer, and more glowing face.<xhr />
+		</content>
+	</text-block></block>
+
+	<!--<block><text-block>
+		<first-line>
+		</first-line>
+		<content>
+		</content>
+	</text-block></block>-->
+</Page>

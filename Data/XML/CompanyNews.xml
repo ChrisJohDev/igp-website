@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Page>
+	<slogan>
+    New innovations at IGP in 2008!
+  </slogan>
+	<block><text-block>
+		<content>
+      Dear customers, we hope that you are pleased to know that we have now started to market a limited number of our products in stores and other outlets. We want it to be easier for you to get the products you desire and as our network of stores and other outlets are steadily growing we hope to be able to serve you better.
+    </content>
+	</text-block></block>
+	<block><text-block>
+		<content>
+      We are very excited about these new developments and we hope that it will be appreciated by you our valued customers too. If you can’t find our products in your favorite store yet, then ask them to contact us at <email data="sales@igp.ph">sales@igp.ph</email>, or you can contact us and tell us where you would like to be able to buy your favorite products.
+    </content>
+	</text-block></block>
+	<block><text-block>
+		<content>
+      Exciting news is that we now have a new Reseller Organization. We have worked very hard on creating an interesting and probably one of the best and most generous organizational plans for a reseller network in the world. So now more than ever, if you have thought about subsidizing your own beauty product purchases and want to make some extra money, now is the time to get onboard as an Emerald Club Member and join our growing number of resellers.
+    </content>
+	</text-block></block>
+	<block><text-block>
+		<content>
+      There are no initial costs for you and no commitments that you have to make and you don’t even have to buy a demonstration kit that most other companies make you do. All you need to do is to contact Intensity Glow Products and tell us that you are interested in having fun and want to earn some extra money by selling beauty products. The only requirement that we have is that you, when you order, buy a minimum of 5 products of any one product. That entitles you to buy for our very low reseller prices.
+    </content>
+	</text-block></block>
+	<block><text-block>
+		<content>
+      Of course there are also possibilities for entrepreneurial inclined people to make more out of selling beauty products. We have an organizational plan that contains another 3 levels of clubs. Of course they require a little more effort and there are certain minimum conditions that apply to join those Clubs but the rewards are also far greater. For more information take a look at “New Resellers” under the “Information” menu.
+    </content>
+	</text-block></block>
+	<!--<block><text-block>
+		<content>
+			If you have any thoughts or ideas or if you think that there is something that we are missing or you just want to contact us then feel free to use our <link src="javascript:__doPostBack('Menu1','cmpInfo\\cmpContact')">contact us</link> page to find our contact details.
+		</content>
+	</text-block></block>
+	<block><text-block>
+		<content>
+			Best wishes with achieving a <xi>Beauty that Glows!</xi> <xbr /><xb>Intensity Glow Products</xb><xhr />
+		</content>
+	</text-block></block>-->
+</Page>

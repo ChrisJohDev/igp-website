@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Page>
+	<slogan>
+		Contact Us
+	</slogan>
+	<block><text-block>
+		<xhr />
+	</text-block></block>
+	<block><text-block>
+		<first-line>
+			E-Mail:
+		</first-line>
+		<content>
+			For help with issues regarding sales and purchases first have a look at our page <link src="javascript:__doPostBack('Menu1','prodConsumer\\prodHowToBuy')">&quot;How To Buy&quot;</link> if you can’t find the answers that you are looking for there then email us at: <email data="sales@igp.ph">sales@igp.ph</email>
+		</content>
+	</text-block></block>
+	<block><text-block>
+		<content>
+			For help on specific products or questions about how to use products that you have purchased from us, first look through our <link src="javascript:__doPostBack('Menu1','glowGlowTips\\glowFAQ')">FAQ</link> section under Glow Tips and the other information provided there. If you still can’t get an answer to your questions then email us at: <email data="support@igp.ph">support@igp.ph</email> and we will be happy to answer your questions.
+		</content>
+	</text-block></block>
+	<block><text-block>
+		<content>
+			For general information about our products or if you have any ideas, products that you would like to see in our product line, you want to tell us about what you think about our products, or anything else that you want to tell us about then email us at: <email data="info@igp.ph">info@igp.ph</email><xbr /><xhr />
+		</content>
+	</text-block></block>
+	<block><text-block>
+		<first-line>
+			Text messages (SMS):
+		</first-line>
+		<content>
+			For any orders or inquires you can text or call us at:<xbr />
+			<xb>SMART:</xb> 0921 674 5033<xbr />
+			<xb>Globe:</xb> 0927 255 4346<xhr />
+		</content>
+	</text-block></block>
+</Page>
